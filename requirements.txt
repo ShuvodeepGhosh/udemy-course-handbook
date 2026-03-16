@@ -1,7 +1,11 @@
-fastapi
-uvicorn
-langchain
-faiss-cpu
+﻿faiss-cpu
 openai
 python-dotenv
 pydantic
+pydantic
+langchain-text-splitters
+pypdf
+python-docx
+webvtt-py
+sentence-transformers
+numpy
