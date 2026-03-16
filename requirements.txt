@@ -5,3 +5,9 @@ faiss-cpu
 openai
 python-dotenv
 pydantic
+langchain-text-splitters
+pypdf
+python-docx
+webvtt-py
+sentence-transformers
+numpy
